@@ -33,6 +33,10 @@
             android:text="Email"
             android:textSize="15sp"
             />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="ádhjashdjasdhjasdh"/>
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/et1"
             android:layout_width="300dp"
